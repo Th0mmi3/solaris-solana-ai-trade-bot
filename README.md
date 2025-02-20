@@ -1,7 +1,6 @@
-  
-# 🔮🚀 Raydium & PumpFun AI Trade Bot
-
 ![Solaris-Logo](https://solarisbot.app/logo.svg)
+
+# 🚀 Raydium & PumpFun AI Trade Bot
 
 ## ⭐Please consider giving a **star**.
 
